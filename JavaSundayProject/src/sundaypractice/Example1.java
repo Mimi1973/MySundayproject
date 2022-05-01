@@ -6,7 +6,9 @@ public class Example1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println( "Hello Weekend");
-
+		System.out.println("It is a good day");
+		System.out.println( "Hello Weekend");
+		System.out.println("It is a good day");
 	}
 
 }
